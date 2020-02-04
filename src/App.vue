@@ -16,7 +16,7 @@
           width="80"
           height="auto"
         />
-        <h2>Animal Restaurant VN Wiki</h2>
+        <h2>Animal Restaurant VN Wiki </h2>
       </div>
 
     </v-app-bar>
