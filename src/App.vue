@@ -6,23 +6,17 @@
       dark
     >
       <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
+
 
         <v-img
           alt="Vuetify Name"
           class="shrink mt-1 hidden-sm-and-down"
           contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
+          src="https://vignette.wikia.nocookie.net/animalrestaurant/images/7/71/Chef_Gumi.png/revision/latest/top-crop/width/200/height/150"
+          width="80"
+          height="auto"
         />
+        <h2>Animal Restaurant VN Wiki</h2>
       </div>
 
     </v-app-bar>
